@@ -73,7 +73,7 @@ a {
     margin-top: 35px;
 }
 .picMini{
-    height: 120px;
+    height: 125px;
     margin-right: 10px;
 }
 ul {
@@ -112,7 +112,6 @@ li a:hover {
 }
 .quadrado {
     display: block;
-    background-color: aqua;
     width: 175px;
     height: 80px;
 }
@@ -121,3 +120,17 @@ li a:hover {
     color: hsl(236, 13%, 42%);
     font-size: 14px;
 }
+
+.number {
+    color: gray;
+    height: 20px;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.h4 {
+    color: black;
+}
+.h4:hover {
+    color:hsl(5, 85%, 63%);
+  }
