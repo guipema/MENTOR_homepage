@@ -9,6 +9,7 @@
 body {
     margin: 100px;
     padding: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .top {
@@ -47,6 +48,9 @@ a {
     margin-right: 15px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+#text:hover{
+    color: orange;
 }
 .class{
     display: inline-block;
@@ -122,10 +126,11 @@ li a:hover {
 }
 
 .number {
-    color: gray;
+    color: rgb(141, 141, 141);
     height: 20px;
     font-size: 25px;
     margin-top: 5px;
+    font-weight: 700;
 }
 
 .h4 {
